@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel William
 
-- 🔭 Na faculdade de Computação
+- 🔭 Na faculdade de Sistemas para Internet
 - 🌱 Estudando ReactJS
 - 💬 Me pergunte sobre Html, css e JavaScript
 <div>
