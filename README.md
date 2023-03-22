@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel William
 
 - 🔭 Na faculdade de Sistemas para Internet
-- 🌱 Estudando ReactJS
+- 🌱 Estudando Java
 - 💬 Me pergunte sobre Html, Css e JavaScript
 <div>
   <a href="https://github.com/akihanma">
